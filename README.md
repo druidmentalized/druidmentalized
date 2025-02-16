@@ -1,4 +1,4 @@
-#Dmitriy "druidmentalized" Barmuta! 👋
+# Dmitriy "druidmentalized" Barmuta
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
 
