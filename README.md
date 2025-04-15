@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ## 🌐 Me around the web
 
 - **GitHub**: [github.com/druidmentalized](https://github.com/druidmentalized)
-- **LeetCode**: [leetcode.com/druidmentalized](https://leetcode.com/u/Dimaster/)
+- **LeetCode**: [leetcode.com/druidmentalized](https://leetcode.com/u/druidmentality/)
